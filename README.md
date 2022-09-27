@@ -26,7 +26,7 @@ you with compiling Java using Maven, and submitting using Gradescope.
   For more information, see the links below where both
   Maven, and the specific `pom.xml` in this project are explained in more detail.
   * [Maven, in general](https://ucsb-cs156.github.io/topics/maven)
-  * [The pom.xml file for this project](https://ucsb-cs156.github.io/topics/maven_hello_world/)
+  * [The pom.xml file for this project](https://ucsb-cs156.github.io/topics/maven/maven_hello_world.html)
 
 * `src` This directory contains the source code for this project.
 
